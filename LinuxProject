@@ -13,6 +13,8 @@ To begin using `internsctl`, you will need to install it on your Linux system. F
 
 ### Progress
 
-Create a bash file internsct1
-Edit (/Linux/Screenshot 2024-01-10 114507.png)
+1. sudo internsctl
+2. edit file
+3. save it 
+
 
