@@ -1,0 +1,18 @@
+# internsctl Command
+
+`internsctl` is a custom Linux command.
+## Features
+
+- **Manual Page**: Access full documentation using the manual page with `man internsctl`.
+- **Help Option**: Get usage guidelines and examples with `internsctl --help`.
+- **Version Information**: Check the command version with `internsctl --version`.
+
+## Getting Started
+
+To begin using `internsctl`, you will need to install it on your Linux system. Follow the installation instructions provided below.
+
+### Progress
+
+Create a bash file internsct1
+Edit 
+
