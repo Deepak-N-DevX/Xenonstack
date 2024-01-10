@@ -32,3 +32,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Deepak-N-DevX/Xenonstack.git
 cd xenonstack
+
+mkdir myapp
+cd myapp
+npm init -y
